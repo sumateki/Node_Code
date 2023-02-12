@@ -1,0 +1,17 @@
+{
+  "name": "a-simple-web-server",
+  "version": "1.0.0",
+  "description": "A simple webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Suma Teki",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "date-and-time": "^2.4.2",
+    "date-time": "^4.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
